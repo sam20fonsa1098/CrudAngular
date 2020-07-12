@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Lápis",
+      "price": "3.24"
+    },
+    {
+      "name": "Caneta Bic",
+      "price": "25.00",
+      "id": 3
+    },
+    {
+      "name": "Celular",
+      "price": "1206.56",
+      "id": 6
+    },
+    {
+      "name": "Tv",
+      "price": "5000.25",
+      "id": 7
+    }
+  ]
+}
